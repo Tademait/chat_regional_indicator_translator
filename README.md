@@ -5,5 +5,5 @@ An extremely simple script for typing in regional indicator symbols instead of s
 Just run the script in the background and when you're done use Escape key to stop it.
 
 # Dependencies:
-keyboard *library*
+library *keyboard*
 `pip3 install keyboard`
